@@ -1,5 +1,5 @@
 # Bangladesh Account Crack 
-#coded by ARYAN HACKER 
+# coded by ARYAN HACKER 
 
 # pkg update 
 # pkg upgrade 
