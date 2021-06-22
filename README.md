@@ -10,5 +10,7 @@
 # git clone https://github.com/Aryanjan002/Bangladesh
 # cd Bangladesh
 # python2 Aryan.py 
+# password ARYAN 
+
 
 # join my telegram channel https://t.me/joinchat/RHNshhMEJyM0TRzk
